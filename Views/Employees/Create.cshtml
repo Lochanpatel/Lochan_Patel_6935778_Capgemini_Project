@@ -1,0 +1,17 @@
+﻿@model EmployeeProjectManagement.Models.Employee
+
+<h2>Create Employee</h2>
+
+<form asp-action="Create" method="post">
+
+	<label>Name</label>
+	<input asp-for="Name" class="form-control" />
+
+	<label>Department Id</label>
+	<input asp-for="DepartmentId" class="form-control" />
+
+	<br>
+
+	<button type="submit">Save</button>
+
+</form>
