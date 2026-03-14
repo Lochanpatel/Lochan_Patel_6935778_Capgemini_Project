@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProductCodeValidation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+688d04e7a95e247379bf63db10be3cbccd1f01ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79ae3cf6d5b7c7970bfa88d78fca2906263a3902")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProductCodeValidation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProductCodeValidation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
