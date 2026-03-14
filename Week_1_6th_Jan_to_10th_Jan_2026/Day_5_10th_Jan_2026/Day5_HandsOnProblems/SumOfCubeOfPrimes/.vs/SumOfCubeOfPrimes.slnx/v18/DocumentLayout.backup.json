@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_1_6th_Jan_to_10th_Jan_2026\\Day_5_10th_Jan_2026\\Day5_HandsOnProblems\\SumOfCubeOfPrimes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4C9D2C-B07B-6460-68F0-AD23610EDE22}|SumOfCubeOfPrimes.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_1_6th_jan_to_10th_jan_2026\\day_5_10th_jan_2026\\day5_handsonproblems\\sumofcubeofprimes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA4C9D2C-B07B-6460-68F0-AD23610EDE22}|SumOfCubeOfPrimes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_1_6th_Jan_to_10th_Jan_2026\\Day_5_10th_Jan_2026\\Day5_HandsOnProblems\\SumOfCubeOfPrimes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_1_6th_Jan_to_10th_Jan_2026\\Day_5_10th_Jan_2026\\Day5_HandsOnProblems\\SumOfCubeOfPrimes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAzczMzMwmwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T11:07:32.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
