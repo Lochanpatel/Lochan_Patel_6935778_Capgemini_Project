@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\LoginApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFBE5F5-EE6E-43EB-8D4C-8BE33A98DA67}|LoginApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_1_16th_mar_2026\\loginapp\\views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AFBE5F5-EE6E-43EB-8D4C-8BE33A98DA67}|LoginApp.csproj|solutionrelative:views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFBE5F5-EE6E-43EB-8D4C-8BE33A98DA67}|LoginApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_1_16th_mar_2026\\loginapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AFBE5F5-EE6E-43EB-8D4C-8BE33A98DA67}|LoginApp.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFBE5F5-EE6E-43EB-8D4C-8BE33A98DA67}|LoginApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_1_16th_mar_2026\\loginapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFBE5F5-EE6E-43EB-8D4C-8BE33A98DA67}|LoginApp.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFBE5F5-EE6E-43EB-8D4C-8BE33A98DA67}|LoginApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_1_16th_mar_2026\\loginapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFBE5F5-EE6E-43EB-8D4C-8BE33A98DA67}|LoginApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFBE5F5-EE6E-43EB-8D4C-8BE33A98DA67}|LoginApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_1_16th_mar_2026\\loginapp\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFBE5F5-EE6E-43EB-8D4C-8BE33A98DA67}|LoginApp.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\LoginApp\\Views\\Account\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Dashboard.cshtml",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\LoginApp\\Views\\Account\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Account\\Dashboard.cshtml",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAwwKIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T04:19:48.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\LoginApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\LoginApp\\Views\\Account\\Login.cshtml*",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml*",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAcwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T04:18:58.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\LoginApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\LoginApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:17:30.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\LoginApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\LoginApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:16:52.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\LoginApp\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\LoginApp\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:16:16.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

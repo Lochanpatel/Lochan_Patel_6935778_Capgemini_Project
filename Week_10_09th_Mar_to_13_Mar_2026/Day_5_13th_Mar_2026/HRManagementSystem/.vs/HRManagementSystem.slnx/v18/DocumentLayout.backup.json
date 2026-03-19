@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_10_9th_mar_to_14th_mar_2026\\day_5_13th_mar_2026\\hrmanagementsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_10_9th_mar_to_14th_mar_2026\\day_5_13th_mar_2026\\hrmanagementsystem\\views\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|solutionrelative:views\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_10_9th_mar_to_14th_mar_2026\\day_5_13th_mar_2026\\hrmanagementsystem\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|solutionrelative:views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_10_9th_mar_to_14th_mar_2026\\day_5_13th_mar_2026\\hrmanagementsystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_10_9th_mar_to_14th_mar_2026\\day_5_13th_mar_2026\\hrmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_10_9th_mar_to_14th_mar_2026\\day_5_13th_mar_2026\\hrmanagementsystem\\views\\companies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|solutionrelative:views\\companies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_10_9th_mar_to_14th_mar_2026\\day_5_13th_mar_2026\\hrmanagementsystem\\views\\companies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|solutionrelative:views\\companies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_10_9th_mar_to_14th_mar_2026\\day_5_13th_mar_2026\\hrmanagementsystem\\views\\companies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|solutionrelative:views\\companies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_10_9th_mar_to_14th_mar_2026\\day_5_13th_mar_2026\\hrmanagementsystem\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|solutionrelative:controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Migrations\\20260313192845_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260313192845_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_10_9th_mar_to_14th_mar_2026\\day_5_13th_mar_2026\\hrmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_10_9th_mar_to_14th_mar_2026\\day_5_13th_mar_2026\\hrmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_10_9th_mar_to_14th_mar_2026\\day_5_13th_mar_2026\\hrmanagementsystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_10_9th_mar_to_14th_mar_2026\\day_5_13th_mar_2026\\hrmanagementsystem\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9E9CA2-3781-464B-A88A-BFA0027C8919}|HRManagementSystem.csproj|solutionrelative:models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T19:39:22.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Create.cshtml",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T19:34:38.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Views\\Companies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Companies\\Delete.cshtml",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Views\\Companies\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Companies\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T19:33:48.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Views\\Companies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Companies\\Edit.cshtml",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Views\\Companies\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Companies\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T19:33:21.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Views\\Companies\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Companies\\Create.cshtml",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Views\\Companies\\Create.cshtml",
+              "RelativeToolTip": "Views\\Companies\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T19:32:46.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Views\\Companies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Companies\\Index.cshtml",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Views\\Companies\\Index.cshtml",
+              "RelativeToolTip": "Views\\Companies\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAQwFYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T19:32:13.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T19:31:01.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CompaniesController.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "Controllers\\CompaniesController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T19:30:26.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260313192845_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Migrations\\20260313192845_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260313192845_InitialCreate.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Migrations\\20260313192845_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260313192845_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T19:28:46.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T19:26:55.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-13T19:24:18.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T19:23:52.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T19:22:38.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Company.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "Models\\Company.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_5_13th_Mar_2026\\HRManagementSystem\\Models\\Company.cs",
+              "RelativeToolTip": "Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T19:22:07.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

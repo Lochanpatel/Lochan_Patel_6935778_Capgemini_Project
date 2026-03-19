@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_3_11th_Mar_2026\\LibraryPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA55498-F58F-373A-A8A5-59193412F9BA}|LibraryPractice.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_10_9th_mar_to_14th_mar_2026\\day_3_11th_mar_2026\\librarypractice\\controllers\\borrowrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA55498-F58F-373A-A8A5-59193412F9BA}|LibraryPractice.csproj|solutionrelative:controllers\\borrowrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA55498-F58F-373A-A8A5-59193412F9BA}|LibraryPractice.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_10_9th_mar_to_14th_mar_2026\\day_3_11th_mar_2026\\librarypractice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AA55498-F58F-373A-A8A5-59193412F9BA}|LibraryPractice.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA55498-F58F-373A-A8A5-59193412F9BA}|LibraryPractice.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_10_9th_mar_to_14th_mar_2026\\day_3_11th_mar_2026\\librarypractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA55498-F58F-373A-A8A5-59193412F9BA}|LibraryPractice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA55498-F58F-373A-A8A5-59193412F9BA}|LibraryPractice.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_10_9th_mar_to_14th_mar_2026\\day_3_11th_mar_2026\\librarypractice\\migrations\\20260311070136_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA55498-F58F-373A-A8A5-59193412F9BA}|LibraryPractice.csproj|solutionrelative:migrations\\20260311070136_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA55498-F58F-373A-A8A5-59193412F9BA}|LibraryPractice.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_10_9th_mar_to_14th_mar_2026\\day_3_11th_mar_2026\\librarypractice\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA55498-F58F-373A-A8A5-59193412F9BA}|LibraryPractice.csproj|solutionrelative:controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA55498-F58F-373A-A8A5-59193412F9BA}|LibraryPractice.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_10_9th_mar_to_14th_mar_2026\\day_3_11th_mar_2026\\librarypractice\\models\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA55498-F58F-373A-A8A5-59193412F9BA}|LibraryPractice.csproj|solutionrelative:models\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA55498-F58F-373A-A8A5-59193412F9BA}|LibraryPractice.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_10_9th_mar_to_14th_mar_2026\\day_3_11th_mar_2026\\librarypractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AA55498-F58F-373A-A8A5-59193412F9BA}|LibraryPractice.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA55498-F58F-373A-A8A5-59193412F9BA}|LibraryPractice.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_10_9th_mar_to_14th_mar_2026\\day_3_11th_mar_2026\\librarypractice\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA55498-F58F-373A-A8A5-59193412F9BA}|LibraryPractice.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260311070136_m1.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_3_11th_Mar_2026\\LibraryPractice\\Migrations\\20260311070136_m1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260311070136_m1.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_3_11th_Mar_2026\\LibraryPractice\\Migrations\\20260311070136_m1.cs",
+              "RelativeToolTip": "Migrations\\20260311070136_m1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T07:01:37.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BorrowRecordsController.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_3_11th_Mar_2026\\LibraryPractice\\Controllers\\BorrowRecordsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BorrowRecordsController.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_3_11th_Mar_2026\\LibraryPractice\\Controllers\\BorrowRecordsController.cs",
+              "RelativeToolTip": "Controllers\\BorrowRecordsController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAewBgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:25:15.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_3_11th_Mar_2026\\LibraryPractice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_3_11th_Mar_2026\\LibraryPractice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAMzMzMzMrwBIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T06:11:52.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_3_11th_Mar_2026\\LibraryPractice\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_3_11th_Mar_2026\\LibraryPractice\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:08:04.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_3_11th_Mar_2026\\LibraryPractice\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorsController.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_3_11th_Mar_2026\\LibraryPractice\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAtwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:06:15.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_3_11th_Mar_2026\\LibraryPractice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_3_11th_Mar_2026\\LibraryPractice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:35:32.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_3_11th_Mar_2026\\LibraryPractice\\Models\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\LibraryDbContext.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_3_11th_Mar_2026\\LibraryPractice\\Models\\LibraryDbContext.cs",
+              "RelativeToolTip": "Models\\LibraryDbContext.cs",
+              "ViewState": "AgIAABEAAACAZmZmZmY5wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:32:39.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_3_11th_Mar_2026\\LibraryPractice\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_10_9th_Mar_to_14th_Mar_2026\\Day_3_11th_Mar_2026\\LibraryPractice\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-11T05:30:18.106Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

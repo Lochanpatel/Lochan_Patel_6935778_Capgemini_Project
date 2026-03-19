@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\hotelapp\\views\\rooms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|solutionrelative:views\\rooms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\hotelapp\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|solutionrelative:controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\hotelapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\hotelapp\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|solutionrelative:views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\hotelapp\\views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|solutionrelative:views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\hotelapp\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|solutionrelative:controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\hotelapp\\migrations\\20260318201350_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|solutionrelative:migrations\\20260318201350_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\hotelapp\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\hotelapp\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\hotelapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\hotelapp\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|solutionrelative:models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\hotelapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\hotelapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBFCC2E1-B8C5-4B35-920D-2D9378EB37D3}|HotelApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAANDMzMzMLwB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T20:18:14.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Views\\Bookings\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookings\\Create.cshtml",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Views\\Bookings\\Create.cshtml",
+              "RelativeToolTip": "Views\\Bookings\\Create.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T20:17:39.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Views\\Bookings\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookings\\Index.cshtml",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Views\\Bookings\\Index.cshtml",
+              "RelativeToolTip": "Views\\Bookings\\Index.cshtml",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAQwJkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T20:17:11.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Views\\Rooms\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Rooms\\Index.cshtml",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Views\\Rooms\\Index.cshtml",
+              "RelativeToolTip": "Views\\Rooms\\Index.cshtml",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAQwJ0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T20:16:23.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingsController.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "Controllers\\BookingsController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAowFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:14:58.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomsController.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "Controllers\\RoomsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:14:32.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260318201350_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Migrations\\20260318201350_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260318201350_InitialCreate.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Migrations\\20260318201350_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260318201350_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:13:50.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:09:54.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-18T20:06:31.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAABAAAAAAAAowAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:05:27.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:05:07.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:04:43.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Room.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Models\\Room.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\HotelApp\\Models\\Room.cs",
+              "RelativeToolTip": "Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:03:57.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

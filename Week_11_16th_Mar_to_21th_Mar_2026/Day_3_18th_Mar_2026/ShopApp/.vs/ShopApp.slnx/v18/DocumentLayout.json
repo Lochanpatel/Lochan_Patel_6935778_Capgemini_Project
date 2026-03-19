@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\shopapp\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\shopapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\shopapp\\views\\cart\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|solutionrelative:views\\cart\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\shopapp\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|solutionrelative:views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\shopapp\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\shopapp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\shopapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\shopapp\\models\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|solutionrelative:models\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\shopapp\\migrations\\20260318203322_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|solutionrelative:migrations\\20260318203322_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\shopapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\shopapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\shopapp\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\shopapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\shopapp\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_3_18th_mar_2026\\shopapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB45FAC5-615C-4607-82AC-6D548E8FD68E}|ShopApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA4AAAAAMzMzMzMbwCgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T20:38:09.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Views\\Cart\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Confirmation.cshtml",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Views\\Cart\\Confirmation.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Confirmation.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwDQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T20:37:31.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAQwKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T20:36:59.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAQwIwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T20:36:18.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAQwIkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T20:35:41.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAAFEAAAAAoJmZmZnpv1wAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:34:56.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:34:28.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SessionHelper.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Models\\SessionHelper.cs",
+              "RelativeDocumentMoniker": "Models\\SessionHelper.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Models\\SessionHelper.cs",
+              "RelativeToolTip": "Models\\SessionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:33:59.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260318203322_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Migrations\\20260318203322_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260318203322_InitialCreate.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Migrations\\20260318203322_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260318203322_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:33:23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:32:33.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-18T20:32:20.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:31:11.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAQAAABwZmZmZmYiwBkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:30:32.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:30:03.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_3_18th_Mar_2026\\ShopApp\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:29:36.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

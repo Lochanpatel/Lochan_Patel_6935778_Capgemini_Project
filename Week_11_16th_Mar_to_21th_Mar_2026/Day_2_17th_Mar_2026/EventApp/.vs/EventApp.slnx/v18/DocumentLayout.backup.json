@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_2_17th_Mar_2026\\EventApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63EA0C94-AC91-48B0-9DB4-D5608B5D0AF1}|EventApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_2_17th_mar_2026\\eventapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EA0C94-AC91-48B0-9DB4-D5608B5D0AF1}|EventApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EA0C94-AC91-48B0-9DB4-D5608B5D0AF1}|EventApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_2_17th_mar_2026\\eventapp\\pages\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EA0C94-AC91-48B0-9DB4-D5608B5D0AF1}|EventApp.csproj|solutionrelative:pages\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EA0C94-AC91-48B0-9DB4-D5608B5D0AF1}|EventApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_2_17th_mar_2026\\eventapp\\pages\\events\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EA0C94-AC91-48B0-9DB4-D5608B5D0AF1}|EventApp.csproj|solutionrelative:pages\\events\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EA0C94-AC91-48B0-9DB4-D5608B5D0AF1}|EventApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_2_17th_mar_2026\\eventapp\\pages\\events\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EA0C94-AC91-48B0-9DB4-D5608B5D0AF1}|EventApp.csproj|solutionrelative:pages\\events\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EA0C94-AC91-48B0-9DB4-D5608B5D0AF1}|EventApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_2_17th_mar_2026\\eventapp\\pages\\events\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EA0C94-AC91-48B0-9DB4-D5608B5D0AF1}|EventApp.csproj|solutionrelative:pages\\events\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EA0C94-AC91-48B0-9DB4-D5608B5D0AF1}|EventApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_2_17th_mar_2026\\eventapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EA0C94-AC91-48B0-9DB4-D5608B5D0AF1}|EventApp.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EA0C94-AC91-48B0-9DB4-D5608B5D0AF1}|EventApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_2_17th_mar_2026\\eventapp\\migrations\\20260318183925_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EA0C94-AC91-48B0-9DB4-D5608B5D0AF1}|EventApp.csproj|solutionrelative:migrations\\20260318183925_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EA0C94-AC91-48B0-9DB4-D5608B5D0AF1}|EventApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_2_17th_mar_2026\\eventapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63EA0C94-AC91-48B0-9DB4-D5608B5D0AF1}|EventApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EA0C94-AC91-48B0-9DB4-D5608B5D0AF1}|EventApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_2_17th_mar_2026\\eventapp\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EA0C94-AC91-48B0-9DB4-D5608B5D0AF1}|EventApp.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EA0C94-AC91-48B0-9DB4-D5608B5D0AF1}|EventApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_2_17th_mar_2026\\eventapp\\models\\eventregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EA0C94-AC91-48B0-9DB4-D5608B5D0AF1}|EventApp.csproj|solutionrelative:models\\eventregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_2_17th_Mar_2026\\EventApp\\Pages\\Events\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Events\\Index.cshtml.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_2_17th_Mar_2026\\EventApp\\Pages\\Events\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Events\\Index.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T18:44:03.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_2_17th_Mar_2026\\EventApp\\Pages\\Events\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Events\\Index.cshtml",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_2_17th_Mar_2026\\EventApp\\Pages\\Events\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Events\\Index.cshtml",
+              "ViewState": "AgIAAMoAAABAZmZmZmYkwBAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T18:43:14.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_2_17th_Mar_2026\\EventApp\\Pages\\Events\\Register.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Events\\Register.cshtml",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_2_17th_Mar_2026\\EventApp\\Pages\\Events\\Register.cshtml",
+              "RelativeToolTip": "Pages\\Events\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T18:42:16.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_2_17th_Mar_2026\\EventApp\\Pages\\Events\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Events\\Register.cshtml.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_2_17th_Mar_2026\\EventApp\\Pages\\Events\\Register.cshtml.cs",
+              "RelativeToolTip": "Pages\\Events\\Register.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T18:41:42.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_2_17th_Mar_2026\\EventApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_2_17th_Mar_2026\\EventApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAADgzMzMzMwuwCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T18:40:20.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260318183925_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_2_17th_Mar_2026\\EventApp\\Migrations\\20260318183925_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260318183925_InitialCreate.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_2_17th_Mar_2026\\EventApp\\Migrations\\20260318183925_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260318183925_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T18:39:26.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_2_17th_Mar_2026\\EventApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_2_17th_Mar_2026\\EventApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAACAZmZmZmYGwCAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T18:38:06.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_2_17th_Mar_2026\\EventApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_2_17th_Mar_2026\\EventApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-18T18:37:43.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_2_17th_Mar_2026\\EventApp\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_2_17th_Mar_2026\\EventApp\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T18:37:27.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventRegistration.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_2_17th_Mar_2026\\EventApp\\Models\\EventRegistration.cs",
+              "RelativeDocumentMoniker": "Models\\EventRegistration.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_2_17th_Mar_2026\\EventApp\\Models\\EventRegistration.cs",
+              "RelativeToolTip": "Models\\EventRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T18:36:52.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

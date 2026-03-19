@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\ProductApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A020D8-DDDE-4F72-A9C0-C802EBA05760}|ProductApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_1_16th_mar_2026\\productapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A020D8-DDDE-4F72-A9C0-C802EBA05760}|ProductApp.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A020D8-DDDE-4F72-A9C0-C802EBA05760}|ProductApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_1_16th_mar_2026\\productapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8A020D8-DDDE-4F72-A9C0-C802EBA05760}|ProductApp.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A020D8-DDDE-4F72-A9C0-C802EBA05760}|ProductApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_1_16th_mar_2026\\productapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A020D8-DDDE-4F72-A9C0-C802EBA05760}|ProductApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A020D8-DDDE-4F72-A9C0-C802EBA05760}|ProductApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_1_16th_mar_2026\\productapp\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A020D8-DDDE-4F72-A9C0-C802EBA05760}|ProductApp.csproj|solutionrelative:filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A020D8-DDDE-4F72-A9C0-C802EBA05760}|ProductApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_1_16th_mar_2026\\productapp\\filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A020D8-DDDE-4F72-A9C0-C802EBA05760}|ProductApp.csproj|solutionrelative:filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A020D8-DDDE-4F72-A9C0-C802EBA05760}|ProductApp.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_11_16th_mar_to_21th_mar_2026\\day_1_16th_mar_2026\\productapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A020D8-DDDE-4F72-A9C0-C802EBA05760}|ProductApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\ProductApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\ProductApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAACAAAAAAMzMzMzMbwCwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T07:24:07.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\ProductApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\ProductApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:19:33.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\ProductApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\ProductApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:21:47.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\ProductApp\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\ProductApp\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:21:19.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogActionFilter.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\ProductApp\\Filters\\LogActionFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\LogActionFilter.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\ProductApp\\Filters\\LogActionFilter.cs",
+              "RelativeToolTip": "Filters\\LogActionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:20:52.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\ProductApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_11_16th_Mar_to_21th_Mar_2026\\Day_1_16th_Mar_2026\\ProductApp\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:20:09.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
